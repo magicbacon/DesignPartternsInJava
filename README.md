@@ -1,4 +1,4 @@
 DesignPartternsInJava
 =====================
 
-Practi测
+Practice design patterns in Java.
